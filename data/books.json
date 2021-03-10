@@ -1,0 +1,167 @@
+[
+    {
+        "id" : 1,
+        "category" : "philosophy",
+        "image_small" : "images/pitanjav.jpg",
+        "image_large" : "images/pitanjavv.jpg",
+        "image_alt" : "pitanja_jednog_smrtnika",
+        "title" : "Pitanja jednog smrtnika",
+        "author" : "Tomas Nejgel",
+        "price" : 1999,
+        "description" : "Analizirajući neka od suštinskih pitanja čovekovog postojanja Nejgel ukazuje na ljudsku nesavršenost, mane i nedostignuća. Savremeni američki filozof istražuje teorijske probleme smrti, spoznaje, morala, etike, političke filozofije…vršenje moći, u ma kojoj ulozi, jeste jedna od najličnijih formi individualnog samoizražavanja, i bogat izvor čisto ličnog zadovoljstva. O zadovoljstvu koje daje moć se ne govori dovoljno otvoreno, ali to je jedno od najprimitivnijih ljudskih osećanja – koje verovatno ima infantilne korene. Uprkos njihovom ozbiljnom držanju, nepristrasnom govoru i uzdržanoj fizičkoj ekspresiji, oni sa javnom funkcijom su u velikoj meri lično investirani i verovatno beskrajno uživaju u svojoj ulozi. Ali bez obzira da li se u vršenju vlasti uživa svesno ili nesvesno, ono predstavlja osnovnu formu individualnog izražavanja, koje institucije i funkcije vlasti ne umanjuju već uvećavaju."
+    },
+    {
+        "id" : 2,
+        "category" : "philosophy",
+        "image_small" : "images/mislitiv.jpg",
+        "image_large" : "images/mislitivv.jpg",
+        "image_alt" : "misliti_drugacije_filozofija_neslaganja",
+        "title" : "Misliti drugačije",
+        "author" : "Dijego Fuzaro",
+        "price" : 880,
+        "description" : "Knjiga italijanskog filozofa gramšijanske marksističke usmerenosti Dijega Fuzara važan je doprinos borbi za slobodu mišljenja, govora i zastupanja drugačijeg stava od društveno vladajućeg. Onaj ko razmišlja, taj je nekonformista koji ne strahuje od toga da bude u manjini. Najlepši i najmoćniji glasovi ne pevaju u horu nego su svojstva solista. Retki su tako upečatljivi primeri koji pokazuju istinitost ove rečenice kao što je knjiga Misliti drugačije. U čitavom delu autor spori vladajuće vrednosti i norme koje neoliberalni poredak nameće kao samorazumljive atomizovanom globalnom društvu. No, u svom obračunu s potrošačkom kulturom, „profitnom desnicom“ i neoliberalizmom, on ne štedi ni „kulturalnu levicu“, intelektualce i novinare, gramšijevskim rečnikom „funkcionere nadgradnje“, pokazujući da su i oni umnogome doprineli stvaranju jednog politički korektnog diskursa koji sputava kritiku kao conditio sine qua non društvenog razvoja. Upravo zbog toga što je postojeće banalno i samorazumljivo najčešće je pošteđeno kritike, a time je zaprečen razvoj ličnosti i društva."
+    },
+    {
+        "id" : 3,
+        "category" : "philosophy",
+        "image_small" : "images/metafizickev.jpg",
+        "image_large" : "images/metafizickevv.jpg",
+        "image_alt" : "metafizicke_misli",
+        "title" : "Metafizičke misli",
+        "author" : "Baruh de Spinoza",
+        "price" : 880,
+        "description" : "Baruh de Spinoza je bio holandski filozof, jevrejskog porekla, predstavnik filozofije racionalizma koju razvija pod neposrednim Dekartovim uticajem. Na njegovu filozofiju takođe utiču jevrejska misao, Platon, Aristotel, stoički filozofi, neoplatonisti i srednjovekovna misao. Glavna polja interesovanja su mu bila metafizika, epistemologija, psihologija, etika, politička teorija i filozofija religije."
+    },
+    {
+        "id" : 4,
+        "category" : "fantasy",
+        "image_small" : "images/mracnav.jpg",
+        "image_large" : "images/mracnavv.jpg",
+        "image_alt" : "mracna_suma",
+        "title" : "Mračna Šuma",
+        "author" : "Liju Cisin",
+        "price" : 1399,
+        "description" : "Dobitnik nagrade Hu<br><br>Drugi roman trilogije Besede o Zemljinoj prošlosti<br><br>Zamislite da je čitav univerzum jedna šuma kojom krstare nebrojeni, bezimeni predatori. U toj šumi preživljavaju oni koji su neprimetni, a civilizacija koja otkrije svoje postojanje postaje lak plen. Zemlja se razotkrila. Predatori dolaze.<br><br>Derviški ples Trisolarisovih zvezda naterao je ovu naprednu rasu u izgnanstvo. Trisolarijanska flota nezadrživo grabi ka Sunčevom sistemu. Njihove verne sluge sofoni pažljivo motre na svaki potez čovečanstva, držeći nauku pod svojom kontrolom. Um postaje poslednje bezbedno uporište, a izbavljenje ljudskog roda pada u ruke zidozornika sa gotovo neograničenim ovlašćenjima. Protiv njih ustaju izdajnici ljudskog roda čiji je zadatak da poruše bedeme spasonosnog umovanja.<br><br>Trisolarijanska svita šalje glasonošu.<br><br>Šahovska majstorica počinje i završava se u mračnoj šumi.<br><br>„Glavni pokretač radnje su autorova sumorna ali veoma uverljiva, razložna i gotovo filozofska promišljanja sa blistavim idejama komplikovane strukture koje ponekad zahtevaju veću čitaočevu pažnju, ali pisac taj naš trud višestruko nagrađuje. Mračna šuma je izuzetan roman. Za svaku preporuku.“ Kirkus Reviews<br><br>„Mračna šuma je važan roman čiji će vas obrti oduševiti i šokirati, a metafore nagnati na dublja promišljanja o inherentnoj prirodi inteligentnog života u univerzumu.“ thebooksmugglers.com "
+    },
+    {
+        "id" : 5,
+        "category" : "fantasy",
+        "image_small" : "images/zmajv.jpg",
+        "image_large" : "images/zmajvv.jpg",
+        "image_alt" : "zmajeve_oci",
+        "title" : "Zmajeve oči",
+        "author" : "Stiven King",
+        "price" : 1490,
+        "description" : "Nekada davno u kraljevstvu po imenu Delajn živeo je jedan kralj koji je imao dva sina. Roland Dobri nije bio ni najbolji ni najgori kralj koji je vladao tom zemljom. Svi koji su ga poznavali i koji su videli njegovo sivo lice i drhtave ruke dok je primao zvanice na dvoru slagali su se u proceni da će novi kralj biti krunisan za najviše pet godina. Razgovarali su o budućem kralju, Rolandovom najstarijem sinu, Piter<br><br>Ali jedan čovek je smišljao, planirao i pripremao nešto drugo: kako da omogući da Rolandov mlađi sin, Tomas, bude krunisan. Taj čovek bio je Fleg, kraljev čarobnjak.<br><br>Uzbudljiva priča o herojskim avanturama, o zmajevima i prinčevima, o tajanstvenim miševima i ljudima, iz pera majstora pripovedača."
+    },
+    {
+        "id" : 6,
+        "category" : "fantasy",
+        "image_small" : "images/drakulav.jpg",
+        "image_large" : "images/drakulavv.jpg",
+        "image_alt" : "drakulin_gost",
+        "title" : "Drakulin gost",
+        "author" : "Brem Stoker",
+        "price" : 1210,
+        "description" : "Drakulin gost je zbirka priča Brema Stokera, autora kultnog romana Drakula, koju je 1914, dve godine posle Stokerove smrti, priredila i izdala njegova udovica Floren<br><br>„Brem Stoker je napisao neke apsolutno vrhunske kratke priče. Oni koji uživaju u mračnoj kratkoj prozi ne bi mogli uraditi ništa bolje nego da potraže njegovu zbirku Drakulin gost.“<br><br>– Stiven King"
+    },
+    {
+        "id" : 7,
+        "category" : "history",
+        "image_small" : "images/helenskav.jpg",
+        "image_large" : "images/helenskavv.jpg",
+        "image_alt" : "istorija_helenske_etike",
+        "title" : "Istorija helenske etike",
+        "author" : "Miloš N. Đurić",
+        "price" : 2970,
+        "description" : "Naš najznačajniji helenista Miloš N. Đurić ovim delom je postavio solidne osnove za izučavanje ne samo antičke etike i filozofije već i celokupne zapadne misli, koja počiva na njihovim principima. U svom jedinstvenom i nadasve bogatom opusu, Helenska etika se čini možda kao njegovo najpotpunije delo, kojim je uspeo da zaokruži sve ono što je bilo predmet istraživanja suštine helenske civilizacije – te velike misli koja je svoj epitom dobila u jedinstvenom i kompleksnom korpusu etičkih načela. Upravo ta načela su izrodila čitavu jednu civilizaciju u kojoj i danas živimo. Sam Đurić je ovako govorio o konceptu helenske etike:<br><br>„… ona je učiteljica ne samo naše etike i naših nauka nego i cele naše duhovne kulture. […] Kako praktička tako i teorijska helenska misao dale su osnovu svima docnijim sistemima, te se docnija etička misao, u rešavanju svojih problema, od vremena do vremena, vraćala helenskoj etici i njenim rešenjima. […] Od svojih početaka pa sve do neposredne sadašnjosti etika novijih vremena nije donela nijednu presudnu misao a da to nije učinila pod veoma dubokim uticajem helenske etike, u kojoj se nahode osnove svih novijih etičkih sistema i pravaca, i V. fon Humbolt s pravom je rekao da su Heleni ’za nas ono što su za njih bili njihovi bogovi’, a F. Niče da su oni ’uzdodrže naše i svake kulture’.“"
+    },
+    {
+        "id" : 8,
+        "category" : "history",
+        "image_small" : "images/galskiratv.jpg",
+        "image_large" : "images/galskiratvv.jpg",
+        "image_alt" : "galski_rat_gradjanski_rat",
+        "title" : "Galski rat / Građanski rat",
+        "author" : "Gaj Julije Cezar",
+        "price" : 1309,
+        "description" : "Gaj Julije Cezar, prema opštem mišljenju najveća ličnost u istoriji rimskoga naroda, i jedan od najgenijalnijih ljudi što ih je dao ljudski rod, potiče od plemena Julijevaca, koje, opet prema rimskoj tradiciji, vodi porijeklo od Jula, sina trojanskoga junaka Eneje. Kako je Eneja bio sin Anhiza i boginje Venere, to je kod Rimljana bila i ukorijenjena tradicija da u krvi roda Julijeva, pa prema tome i u krvi Cezarevoj, ima neke božanske primjese. Takva okolnost i tradicija je i rukovodila najvećeg rimskog epskog pjesnika Vergilija da pišući Eneidu, i uzdižući do zvijezda svoga savremenika cara Augusta, indirektno ukaže i na njegova prethodnika Cezara, koji je utro puteve Rimskoj imperiji. Nekoliko godina docnije, i drugi veliki rimski pjesnik Ovidije počeo je svoje poznato djelo Metamorfoze stvaranjem svijeta, odnosno haosom, a završio pretvaranjem Julija Cezara u zvijezdu te je na taj način carsku kuću uzdigao do nebesa. Cezar je rođen u Rimu godine 101, a prema nekim verzijama 100. god. stare ere. U 16. godini izgubio je oca Julija Cezara. Prvo vaspitanje je stekao kod svoje umne i obrazovane majke Aurelije, a zatim kod retora Marka Antonija. Politikom se počeo baviti veoma rano. Kako mu je vođa narodne stranke Marije bio tetak, a Cezar je pored toga bio prvi put oženjen Kornelijom, kćerkom narodnog prvaka Lucija Kornelija Cine, to se i Cezar prikloni narodnoj stranci i na taj način dođe u sukob sa vođom optimata Lucijem Kornelijem Sulom pa pobježe iz Rima. Sula ra je, doduše, docnije, na zauzimanje prijatelja, pomilovao. Ali on je već tada uočio sve Cezareve političke kvalitete i ambicije pa je pred istim prijateljima govorio da se u Cezaru krije više Marija."
+    },
+    {
+        "id" : 9,
+        "category" : "history",
+        "image_small" : "images/srpskov.jpg",
+        "image_large" : "images/srpskovv.jpg",
+        "image_alt" : "srpsko_stanoviste",
+        "title" : "Srpsko stanovište",
+        "author" : "Miloš Crnjanski",
+        "price" : 1320,
+        "description" : "Crnjanski je pisac kojeg su komunisti proglašavali mrtvim još za života. O njemu znamo skoro sve. Biografija mu je poznata do najsitnijih detalja, a književno delo pretreseno iz stotina kritičkih uglova. Reklo bi se da je sve značajno što o njemu treba znati već napisan<br><br>No, da li je baš tako?<br><br>Miloš Crnjanski se u životu bavio različitim profesijama: bio je i književnik i fudbaler, kraljevski diplomata između dva rata i obućar u izbeglištvu u Londonu posle Drugog svetskog rata. Vratio se u komunističku Jugoslaviju, jer nije mogao bez Otadžbine. Ali nije uspeo da savlada strah od komunizma niti su komunisti mogli da zaborave njegov predratni antikomunizam.<br><br>Od svih njegovih profesija najmanje se zna o Milošu Crnjanskom kao novinaru. Pisao je književnu i umetničku kritiku, političke članke i reportaže. Sarađivao je u mnogim književnim, dnevnim i političkim listovima. Sam je pokrenuo i uređivao jedan časopis. Bio je jedan od zasigurno najboljih novinara među srpskim književnicima svih vremena.<br><br>Taj Crnjanski danas nama je najmanje poznat. Posebno su brojni njegovi politički tekstovi koji su nam bili nedostupni od 1945. naovamo. Zašto nismo smeli da čitamo ovog Crnjanskog? Zašto su ovi njegovi tekstovi bili u bunkeru više od pola veka?<br><br>Poslednjih decenija, a naročito poslednjih godina, aktuelizovano je pitanje „srpskog stanovišta“, onoga što je Crnjanski krstio kao temelj novog nacionalizma, koji nastaje posle iluzija jugoslovenstva, a protiv pogubnog marksizma.<br><br>Zbog toga je izdavačka kuća Catena mundi izdala zbornik tekstova Miloša Crnjanskog Srpsko stanovište. Tekstovi u ovom zborniku obuhvataju one izašle u knjizi Politički članci 1919–1939, Beograd, 2018, . Radi se o tekstovima sa do te mere aktuelnim političkim pogledima da se bez znanja o vremenu njihovog nastanka može reći da su pisani povodom naših aktuelnih problema."
+    },
+    {
+        "id" : 10,
+        "category" : "thrillers",
+        "image_small" : "images/sastanakv.jpg",
+        "image_large" : "images/sastanakvv.jpg",
+        "image_alt" : "sastanak_sa_smrcu",
+        "title" : "Sastanak sa smrću",
+        "author" : "Agata Kristi",
+        "price" : 799,
+        "description" : "Slučajevi Herkula Poaroa.<br><br>Agata Kristi je najobjavljivanija autorka svih vremena. Jedino Biblija i Šekspirov opus premašuju ukupni tiraž njenih dela – prodato ih je milijardu na engleskom jeziku i još milijardu u prevodu na stotinu drugih jezika.<br><br>Odbojna američka udovica ubijena je na izletu za Petru...<br><br>Među visokim crvemim liticama Petre, poput nekog čudovišnog nabreklog Bude, sedeo je leš gospođe Bojnton. Sićušna rupica na njenom ručnom zglobu jedini je znak da ju je ubila smrtonosna injekcija.<br><br>Imajući na raspolaganju svega dvadeset četiri sata za rešavanje zagonetke, Herkul Poaro setio se primedbe koju je slučajno čuo u Jerusalimu: „Ti uviđaš, zar ne, da ona mora biti ubijena?“ Gospođa Bojnton bila je zaista najneprijatnija žena koju je ikada upoznao...<br><br>„Dvostruko bolje od Smrti na Nilu, a to je vrhunska knjiga.“ Observer<br><br>„Munjevita ruka Agate Kristi i dalje obmanjuje naše oči.“ Val Mekdermid "
+    },
+    {
+        "id" : 11,
+        "category" : "thrillers",
+        "image_small" : "images/andjeov.jpg",
+        "image_large" : "images/andjeovv.jpg",
+        "image_alt" : "andjeo_u_sumi",
+        "title" : "Anđeo u šumi",
+        "author" : "Samuel Bjerk",
+        "price" : 1099,
+        "description" : "„Napeto, uzbudljivo, jezivo, odlično.“ Heat<br><br>U šumi nadomak Osla pronađeno je telo šestogodišnje devojčice kako visi s jednog drveta. Devojčica je bila obučena u haljinicu nalik na one za starinske lutke, na leđima je imala školsku torbu, a oko vrata je nosila cedulju s natpisom „Putujem bez pratnje“.<br><br>Slučaj je dodeljen policijskom inspektoru Holgeru Munku. Njegov prvi zadatak je da pronađe osobu naročitih sposobnosti, svoju prijateljicu i mladu koleginicu Miju Kriger. Prekinuvši sav kontakt sa svetom, Mija se sklonila na jedno ostrvce uz obalu okruga Trendelag.<br><br>Holger Munk je vodeći istražitelj u zemlji. Mija Kriger želi da se ubije. Obešena devojčica oboma nudi svojevrsno iskupljenje. Njih dvoje se vraćaju u staru Specijalnu jedinicu pri Odseku za ubistva u Oslu, rešeni da rasvetle slučaj.<br><br>Nisu, međutim, ni svesni kakav ih košmar očekuje.<br><br>„Bjerk je veliko novo otkriće skandinavskog noara.“ Sunday Times<br><br>„Anđeo u šumi je napisan sa izuzetnim poletom. Mijin sukob, kako sa svojim unutrašnjim demonima, tako i sa onim veoma stvarnim od krvi i mesa majstorski je izveden.“ Independent<br><br>„Ovu knjigu je teško odložiti, isprepadaće vas često i žestoko.“ Telemarksavisa<br><br>„Uzbudljiv i valjan kriminalistički roman, stravičan ali i duhovit.“ Opland Arbejderblad "
+    },
+    {
+        "id" : 12,
+        "category" : "thrillers",
+        "image_small" : "images/stakleniv.jpg",
+        "image_large" : "images/staklenivv.jpg",
+        "image_alt" : "stakleni_hotel",
+        "title" : "Stakleni hotel",
+        "author" : "Emili Sent Džon Mandel",
+        "price" : 899,
+        "description" : "U maglovitoj divljini ostrva Vankuver leži luksuzni hotel Kajet. Sav u staklu i kedrovini, Kajet je mesto gde se prepliću sudbine. Jedne večeri, na recepciji će se, kiselinom urezana u staklo, pojaviti poruka: „Zašto ne progutaš slomljeno staklo?” Ta poruka duboko će uticati na mnoge koji su tu te večeri. Vinsent i njen polubrat Pol rade u hotelu. Uspešni finansijer Džonatan Alkaitis njegov je vlasnik. Leon Prevant, direktor međunarodne brodarske kompanije, gost je u Kajetu. Taj naizgled nevažan događaj, poput skretnice na pruzi, iz korena će izmeniti sudbine tih i mnogih drugih likova i razotkriti sve duhove prošlosti od kojih pokušavaju da pobegnu.<br><br>Preplićući sudbine brojnih likova iz različitih životnih miljea, dozvoljavajući im da prelaze često nevidljive granice, Emili Sent Džon Mandel nam otkriva skriven svet koji postoji „između” onog koji smatramo stvarnošću. Stakleni hotel je čudesan prikaz gramzivosti i krivice, fantazije i obmane. Posredi je dirljiva priča o katastrofama i opstanku, i o bezbrojnim načinima na koje pokušavamo da pronađemo smisao života.<br><br>„Stakleni hotel je istovremeno komercijalna knjiga koja se ne ispušta iz ruku i lepa književnost vrhunskog stila i fantastične strukture. Retke su knjige koje uspeju na oba ta nivoa.”<br><br>– Toronto star<br><br>„Neobičan, suptilan i sablastan roman.”<br><br>– Kirkus rivjuz<br><br>„Ovaj genijalni roman koji će vas potpuno zaokupiti razotkriva<br><br>delikatne ali neraskidive veze među ljudima, kao i dugoročne<br><br>posledice koje trenutak nepažnje može izazvati.” – Pablišers vikli"
+    },
+    {
+        "id" : 13,
+        "category" : "thrillers",
+        "image_small" : "images/poslednjiv.jpg",
+        "image_large" : "images/poslednjivv.jpg",
+        "image_alt" : "poslednji_zivot",
+        "title" : "Poslednji život",
+        "author" : "Peter Molin , Peter Nistrem",
+        "price" : 1299,
+        "description" : "Džon Aderli, FBI agent švedskog porekla, budi se u bolničkom krevetu u Baltimoru, pun rana od metaka, svestan da je sreća što je živ. Nekoliko kreveta dalje je čovek koji je samo dan ranije potegao pištolj na njega. Aderli je ključni svedok u suđenju velikom narko-kartelu i, kad sazna da je stari slučaj iz Karlstada u Švedskoj ponovo otvoren, Džon zna da ga program zaštite svedoka mora poslati u Švedsku.<br><br>Deset godina ranije, tinejdžerka Emeli Bjurval, naslednica poznatog švedskog modnog lanca AkVe, kidnapovana je. Policija je, nakon što je na obližnjoj litici pronašla tragove krvi i sperme, uhapsila momka iz siromašnog dela grada po imenu Bili Nerman. Ali, bez daljih dokaza, bez tela i bez priznanja, policija je primorana da pusti Bilija, a slučaj zatvori kao nerešen.<br><br>Džon želi da otkrije šta se zapravo desilo pre deset godina i da ostavi za sobom duhove prošlosti. Istovremeno, zna da je njegova glava ucenjena. Za izdaju kartela postoji samo jedna kazna – smrt.<br><br>„Izuzetno! Knjiga koja ima sve: odlično napisana, žustrog tempa, napeta i uzbudljiva, sa odlično realizovanim likovima. Kada je budete čitali, postarajte se da imate dovoljno vremena jer je nećete ispustiti iz ruku.“<br><br>– Bokprataren<br><br>„Jezik, pripovedanje, likovi, sredina, dijalozi, neočekivani obrti, dramatična završnica – apsolutno sve u ovom romanu je kao saliveno.“<br><br>– Kapprakt"
+    },
+    {
+        "id" : 14,
+        "category" : "history",
+        "image_small" : "images/srbijav.jpg",
+        "image_large" : "images/srbijavv.jpg",
+        "image_alt" : "srbija_i_vizantija",
+        "title" : "Srbija i Vizantija",
+        "author" : "Božidar Ferjančić",
+        "price" : 2750,
+        "description" : "Akademik Božidar Ferjančić (1929–1998) ostavio je iza sebe izuzetno vredno naučno delo, rasuto po različitim zbornicima i časopisima, koje do sada nije bilo dostupno široj čitalačkoj publici. Knjiga predstavlja izbor njegovih studija iz istorije srpsko-vizantijskih odnosa, od stvaranja srpske države pod Stefanom Nemanjom pa do pada Vizantije i Srbije pod tursku vlast. U studijama koje čine jedinstvenu celinu prikazan je kontinuitet tih odnosa kroz ratove i srpska osvajanja, opisani su pregovori koji su potvrđivani sa uspostavljanjem bračnih veza između dva dvora, ekonomija, crkveni i kulturni uticaji. Posebno izdvajamo poglavlja o brakovima: kralja Stefana Prvovenčanog sa Evdokijom i kralja Milutina sa Simonidom, zatim ona o srpskoj vlasti u Epiru, Tesaliji i Serskoj oblasti, kao i o autokefalnosti srpske crkve čijih osam vekova obeležavamo ove godine (1219–2019)."
+    },
+    {
+        "id" : 15,
+        "category" : "philosophy",
+        "image_small" : "images/mitv.jpg",
+        "image_large" : "images/mitvv.jpg",
+        "image_alt" : "mit_o_sizifu",
+        "title" : "Mit o Sizifu",
+        "author" : "Alber Kami",
+        "price" : 699,
+        "description" : "Filozofski esej Mit o Sizifu Alber Kami objavljuje iste godine kad i roman Stranac, pa se ove dve knjige često sagledavaju kao tematski komplementarne. Mit o Sizifu, jedan od najčuvenijih egzistencijalističkih tekstova dvadesetog veka, koji počinje postavljanjem filozofskog problema samoubistva, predstavlja analizu nihilizma i prirode apsurda, kao i čovekovog života u apsurdnom univerzumu bez reda i smisla.<br><br>Za Kamija je Sizif idealan primer apsurda – čovek koji je usprotivio bogovima, i sad izdržava svoju kaznu. Međutim, u opisu Sizifa koji zastaje da bi pogledao kako se kamen još jednom kotrlja niz padinu, Kami opisuje osvešćenje i samosvest glavnog junaka, čoveka koji spoznaje svoju sudbinu i u njoj pronalazi snagu.<br><br>Danas, kada se čovečanstvo suočava sa tolikim političkim i društvenim izazovima, kada je trka za moći i uspehom jača nego ikad, a kad ogroman deo ljudske populacije biva pritisnut Sizifovim poslom, ova knjiga je ponovo, još jednom i drugačije relevantna."
+    }
+]
